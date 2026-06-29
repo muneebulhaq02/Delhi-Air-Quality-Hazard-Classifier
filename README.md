@@ -30,8 +30,7 @@ Delhi-Air-Quality-Hazard-Classifier/
 │   ├── eval_confusion_matrices.png
 │   └── eval_feature_importance.png
 |── docs/
-|
-|    ├── presentation.pptx
+|   ├── presentation.pptx
 |   └── research_paper.docx
 ├── .gitignore
 
