@@ -69,8 +69,8 @@ Four classifiers were trained and tuned using **GridSearchCV**:
 |---|---|---|---|---|
 | Random Forest | 1.00 | 1.00 | 1.00 | 1.00 |
 | Gradient Boosting | 1.00 | 1.00 | 1.00 | 1.00 |
-| Support Vector Machine | 0.96 | 0.97 | 0.96 | 0.96 |
-| K-Nearest Neighbors | 0.90 | 0.90 | 0.90 | 0.90 |
+| Support Vector Machine | 0.9646 | 0.9661 | 0.9646 | 0.9649 |
+| K-Nearest Neighbors | 0.9027 | 0.9027 | 0.9027 | 0.9005 |
 
 ![Model Comparison](outputs/eval_comparison.png)
 
