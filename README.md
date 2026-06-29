@@ -13,7 +13,7 @@ The pipeline covers full EDA → feature engineering → model training/tuning �
 ## 🗂️ Project Structure
 
 ```
-delhi-air-quality-classifier/
+Delhi-Air-Quality-Hazard-Classifier/
 │
 ├── README.md
 ├── requirements.txt
@@ -29,9 +29,12 @@ delhi-air-quality-classifier/
 │   ├── eval_comparison.png
 │   ├── eval_confusion_matrices.png
 │   └── eval_feature_importance.png
-└── docs/
-    ├── presentation.pptx
-    └── research_paper.docx
+|── docs/
+|
+|    ├── presentation.pptx
+|   └── research_paper.docx
+├── .gitignore
+
 ```
 
 ## 📊 Dataset
